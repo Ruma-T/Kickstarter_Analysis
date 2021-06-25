@@ -20,7 +20,7 @@ Being new to the Excel and programming, initially it was challenging for me to u
 
 
 ### Analysis of Outcomes Based on Goals
-![png_Outcomes_vs_Goals](png_Resources_Outcomes_vs_Goals)
+![png_Outcomes_vs_Goals](https://github.com/Ruma-T/Kickstarter_Analysis/blob/87172aed1181383a45abb15c94915904abe0e19c/Resources/Outcomes_vs_Goals.png)
 
  
 •	This graph has both positive and negative slope throughout the range 1000 to 50000. 
