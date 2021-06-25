@@ -13,14 +13,14 @@ Being new to the Excel and programming, initially it was challenging for me to u
 
 
 ### Analysis of Outcomes Based on Launch Date
-![png_Theater_Outcomes_vs_Launch](png_Resources_RT_https://github.com/Ruma-T/Kickstarter_Analysis/blob/614ef18231697a1192695e024ba98bc759e8f39b/Resources_RT/Theater_Outcomes_vs_Launch.png)
+![png_Theater_Outcomes_vs_Launch](png_Resources_https://github.com/Ruma-T/Kickstarter_Analysis/blob/614ef18231697a1192695e024ba98bc759e8f39b/Resources_RT/Theater_Outcomes_vs_Launch.png)
  
 •	This pivot chart clearly shows, May is the best month to start the campaign and throughout summer it can work well. 
 •	As expected, winter is not very god time for successful outcomes for theater
 
 
 ### Analysis of Outcomes Based on Goals
-![png_Outcomes_vs_Goals](png_Resources_RT/Outcomes_vs_Goals)
+![png_Outcomes_vs_Goals](png_Resources_Outcomes_vs_Goals)
 
  
 •	This graph has both positive and negative slope throughout the range 1000 to 50000. 
