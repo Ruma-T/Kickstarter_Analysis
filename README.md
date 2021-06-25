@@ -20,6 +20,8 @@ Being new to the Excel and programming, initially it was challenging for me to u
 
 
 ### Analysis of Outcomes Based on Goals
+![png](Resources_RT/Outcomes_vs_Goals)
+
  
 •	This graph has both positive and negative slope throughout the range 1000 to 50000. 
 •	There is an interesting pattern in the curve where sudden increase and decrease slope is seen cause of which could be explored more to maximize the goal.
