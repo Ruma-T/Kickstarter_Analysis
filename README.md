@@ -13,7 +13,7 @@ Being new to the Excel and programming, initially it was challenging for me to u
 
 
 ### Analysis of Outcomes Based on Launch Date
-<img.src="Resources_RT/Theater_Outcomes_vs_Launch.png">
+![png](Resources_RT/Theater_Outcomes_vs_Launch)
  
 •	This pivot chart clearly shows, May is the best month to start the campaign and throughout summer it can work well. 
 •	As expected, winter is not very god time for successful outcomes for theater
