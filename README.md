@@ -14,7 +14,7 @@ Being new to the Excel and programming, initially it was challenging for me to u
 
 
 ### Analysis of Outcomes Based on Launch Date
-![Alt Image text](/Kickstart_Analysis/Resources/Theater_Outcomes_vs_Launch.png?raw=true "Optional Title")
+!https://github.com/Ruma-T/Kickstart_Analysis/blob/accda9db46dd182bc01a6d9e54e30526d00a933d/Resources/Outcomes_vs_Goals.png
 
 
  
